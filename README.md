@@ -1,4 +1,4 @@
-# SVM-Support-Vector-Machine-
+# SVM-Support-Vector-Machine
 
 Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used for both classification and regression, though it is most famous for classification. Its goal is to find the "best" possible boundary to separate different groups of data. 
 
